@@ -1,0 +1,72 @@
+.img {
+    text-align: center;
+    margin-top: 200px;
+}
+
+input {
+    width: 500px;
+    height: 30px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+}
+
+li {
+    display: inline;
+}
+
+a {
+    margin: 5px;
+    display: inline-block;
+    font-family: sans-serif;
+    text-decoration: none;
+    color: #555;
+}
+
+a:hover {
+    color: grey;
+}
+
+form {
+    text-align: center;
+    margin-bottom: 25px;
+}    
+
+.buttons {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.bottomleft {    
+}
+
+.bottomright {    
+}
+
+.footer {
+    background-color: #eee;
+    height: 25px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.navigation {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    align-items: center;
+}
+
+.navigation button {
+    background-color: rgb(92, 92, 255);
+    border: none;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+
+}
